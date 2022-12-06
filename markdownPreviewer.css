@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+#editor {
+  min-width: 200px;
+  height: 88%;
+  resize: none;
+}
+
+#editorContainer {
+  min-height: 300px;
+}
